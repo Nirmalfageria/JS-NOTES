@@ -1,0 +1,66 @@
+#button{
+    width: 100px;
+    height: auto; margin-top: 10px;
+    
+}
+#button:hover {
+    background-color: yellowgreen;
+}
+.f1{
+  color: black;
+    background-color: red;
+}
+.p1{
+    background-color: aquamarine;
+}
+.red{
+    color: antiquewhite;
+}
+.text-color{
+    background-color: black;
+}
+.blubfirst{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blub{
+    width:200px; 
+    height:200px;
+    background-color: rgb(0, 255, 30);
+    background-image: url('./images/Desktop_PC.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border-radius: 50px; */
+}
+.blubred{
+    background-color: rgb(0, 204, 255);
+    background-image: url('./images/apple-mac-high-resolution-wallpaper-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    gap :10px;
+}
+#hackerman{
+    color:rgb(10, 231, 10);
+   font-size:25px;
+   text-align: center;
+   text-justify: auto ;
+}
+/* body{
+    background-color: black;
+    background-image: url("/images/v627-aew-01-technologybackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+   z-index: -99;
+} */
